@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Common"
+		},
+		{
+			"path": "TestModule"
+		},
+		{
+			"path": "LoadApp"
+		},
+	],
+	"settings": {}
+}
